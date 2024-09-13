@@ -1,6 +1,6 @@
 # Math Activity Handbook
 
-This is a resource book for hands-on activities for exploring mathematical themes, targeted at middle school children.
+This book is a resource guide for hands-on math activity for middle school children.
 
 _Please note that this is a work in progress._
 
