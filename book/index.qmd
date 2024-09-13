@@ -1,0 +1,18 @@
+# Preface {.unnumbered}
+
+This book is a resource guide for planning math activity for middle school. This came out of my explorations with recreational mathematics over many years.
+
+I wrote this primarily to document my efforts in systematic way so that I can reuse them when I do these activities another time. I hope these will be useful to others with similar interests.
+
+The current plan is to cover three themes - _String Art_, _Tessellations_ and _Making popup rooms_.
+
+_String Art_, also known as _Curve Stiching_ is a craft of sewing beautiful mathematical patterns on paper. This is accessible to even young children without nay need for understanding the mathematics behind that. However, an _aha!_ moment is waiting to be uncovered once they see the mathematics behind that.
+
+_Tessellations_, is primarily exploring the space filling tessellations of _M. C. Escher_ following his explorations of regular division of plane. This gives space to play with symmetry very closely, playing with _translation_, _rotation_ and _glide-reflection_.
+
+_Making popup rooms_ activity explores making rooms and furnitures that folds flat like a card. While the first two activities explore mathematics, this one introduces the world of architecture and engineering.
+
+Each theme comprised of 3 to 4 activities, each taking about an hour and half. Each activity is structured for an interactive class room and involves hands on activity along with some questions to reflect at the end.
+
+The materials required for each theme is mentioned in the respective chapters.
+

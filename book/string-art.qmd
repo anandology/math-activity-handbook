@@ -1,0 +1,57 @@
+# String Art
+
+## Activity 1
+
+This activity is based on _Nine point mystic rose_, page 27 of @millington1989curve.
+
+## Materials required
+
+The following materials are required for each student.
+
+- a card board sheet cut into a 10cm x 10cm square
+- A colorful thread
+- a pair of scissors
+- a 36-division circular template
+
+You also need a tape roll to mark two concentric circles.
+
+### Activity
+
+**Part 1: Make the base**
+
+1. Take a sheet of card board and mark 2 concentric circles using tape roll as a template.
+
+2. Using the circular template mark the top and bottom, right and left points and join them. This is handy reference to know where is the center.
+
+3. Mark 9 equi-distant points using 36-division circular template. You'll have to mark point 4, 8, 12 and so on to get 9 points.
+
+4. For each point, align the scale from center of the circles to that point and draw a line from the outer circle to the inner circle.
+
+5. Cut the outer circle.
+
+6. Cut the line marks from outer circle to the inner circle.
+
+7. Number each point from 1 to 9.
+
+**Part 2: Thread the pattern**
+
+9. Start the a thread on the backside of point 1. On the front side, take it over to point 9. After this the thread will be on the back side. Bring it back to point 1.
+
+10. Repeat the above step for points 8 to 2.
+
+11. Starting from point 2, connect it to points 9, 8, ... 3. Like did in the above steps.
+
+12. Repeat it from points 3 to 9.
+
+Variations:
+- You can try using 12 points instead of 9 points.
+
+### Questions
+
+- We have made regular polygons with 9 vertices and 12 vertices using a 36-division circle template. What other regular polygons can you create using it?
+
+- If you use a 40-division circle template instead of 36-division one, what regular polygons will you be able to create using that?
+
+- If you were given an option to get (or make) another circle template, how many divisions would you like to have in that and why?
+
+
